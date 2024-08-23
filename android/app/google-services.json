@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1071139077218",
+    "project_id": "rate-your-teacher-962ee",
+    "storage_bucket": "rate-your-teacher-962ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071139077218:android:83313ea6553830f514a53b",
+        "android_client_info": {
+          "package_name": "com.example.rate_your_teacher"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdHfGWnv0cM4jBcNCXEL07CsKVapEFuoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
